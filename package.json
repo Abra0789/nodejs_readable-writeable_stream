@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "node --watch index.js",
     "dev:1": "node --watch index_1.js",
-    "dev:2": "node --watch index_2.js"
+    "dev:2": "node --watch index_2.js",
+    "dev:3": "node --watch index_3.js"
   },
   "keywords": [],
   "author": "",
